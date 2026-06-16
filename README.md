@@ -18,8 +18,6 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 
 ## 🌐 Socials:
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=6&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="line" />
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pathakshantanu29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-pathak-1a532a2a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shantanupathak29@gmail.com)
 
 </div>
@@ -27,10 +25,6 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 <div align="center">
 
 # 💻 Tech Stack:
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=6&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="line" />
-
-</div>
 
 <div align="center">
 
@@ -46,10 +40,6 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 
 # 📊 GitHub Stats:
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=6&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="line" />
-
-</div>
-
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=shantanupathak29-hash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -62,7 +52,7 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 
 ## 📈 Contribution Graph
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=6&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="line" />
+
 
 [![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29-hash&theme=github-compact)](https://github.com/shantanupathak29-hash)
 
