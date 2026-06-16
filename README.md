@@ -1,6 +1,18 @@
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="400"/>
+</div>
+
 # 💫 About Me:
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineering+Student;React+%7C+Firebase+%7C+Python+%7C+C%2B%2B;Building+Practical+Solutions)](https://git.io/typing-svg)
+</div>
+
 I am Shantanu, a Software Engineering student with a strong foundation in C, C++, Python, JavaScript, and SQL. I have experience in frontend development using React and backend development with Firebase, along with an interest in system design and hardware description languages such as VHDL. I enjoy building practical solutions, learning new technologies, and applying software and hardware concepts to real-world problems.
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pathakshantanu29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-pathak-1a532a2a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shantanupathak29@gmail.com) 
@@ -12,6 +24,9 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 ![](https://github-readme-stats.shion.dev/api?username=shantanupathak29-hash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shantanupathak29-hash&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29-hash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📈 Contribution Graph
+[![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29-hash&theme=github-compact)](https://github.com/shantanupathak29-hash)
 
 ---
 [![](https://komarev.com/ghpvc/?username=shantanupathak29-hash&icon=0&color=0)](https://visitcount.itsvg.in)
