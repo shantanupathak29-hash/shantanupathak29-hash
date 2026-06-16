@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=120&section=header"/>
+
 <div align="center">
 
 # 💫 About Me:
@@ -11,7 +13,7 @@
 I am Shantanu, a Software Engineering student with a strong foundation in C, C++, Python, JavaScript, and SQL. I have experience in frontend development using React and backend development with Firebase, along with an interest in system design and hardware description languages such as VHDL. I enjoy building practical solutions, learning new technologies, and applying software and hardware concepts to real-world problems.
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -31,7 +33,7 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
@@ -58,3 +60,4 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=120&section=footer"/>
