@@ -44,9 +44,9 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=shantanupathak29-hash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=shantanupathak29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shantanupathak29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29-hash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -56,7 +56,7 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
 
 
 
-[![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29-hash&theme=github-compact)](https://github.com/shantanupathak29-hash)
+[![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29&theme=github-compact)](https://github.com/shantanupathak29-hash)
 
 </div>
 
