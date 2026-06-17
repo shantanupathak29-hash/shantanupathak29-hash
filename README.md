@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%"/>
+</div>
+
 # 💫 About Me:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineering+Student;React+%7C+Firebase+%7C+Python+%7C+C%2B%2B;Building+Practical+Solutions" alt="Typing SVG" />
@@ -10,9 +14,7 @@
 
 I am Shantanu, a Software Engineering student with a strong foundation in C, C++, Python, JavaScript, and SQL. I have experience in frontend development using React and backend development with Firebase, along with an interest in system design and hardware description languages such as VHDL. I enjoy building practical solutions, learning new technologies, and applying software and hardware concepts to real-world problems.
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%"/>
-</div>
+
 
 <div align="center">
 
